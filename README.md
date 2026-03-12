@@ -7,9 +7,7 @@
 
 <h3>Full Stack Developer | MERN • Python • Java </h3>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
+<div align="center">
   <p>
     I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
     From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
@@ -21,10 +19,10 @@
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
+<hr>
+<h3 align="center">🌐 Socials</h3>
+<hr>
+<p align="center">
   <a href="https://github.com/StormBreaker08">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
@@ -51,7 +49,7 @@
 
 ## 🛠️ Skills
 <p align="center">
-<table>
+<table align="center">
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
