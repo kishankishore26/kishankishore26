@@ -103,13 +103,15 @@
   />
 </div>
 
----
+Thank You for visiting my profile.
 
-## ❤️ Support Me
+<!--## ❤️ Support Me
 
 <p align="center">
   <a href="https://buymeachai.ezee.li/kishankishore26" target="_blank" rel="noopener noreferrer">
     <img src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png" alt="Buy Me A Chai" width="200"></a>
   </a>
 </p>
+-->
+
 
