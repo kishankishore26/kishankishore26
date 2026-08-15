@@ -104,6 +104,9 @@
 </div>
 
 <h3 align="center"><strong>Thank You for visiting my profile.</strong></h3>
+
+<p><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI" alt="Dino"></p>
+
 <!--## ❤️ Support Me
 <p align="center">
   <a href="https://buymeachai.ezee.li/kishankishore26" target="_blank" rel="noopener noreferrer">
